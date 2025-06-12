@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\public\\vite.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\public\\vite.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\src\\pages\\editblog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\src\\pages\\editblog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\src\\pages\\addblog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\src\\pages\\addblog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\src\\pages\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\src\\pages\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\src\\pages\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\src\\pages\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\src\\pages\\myblogs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\src\\pages\\myblogs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\src\\pages\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\src\\pages\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\src\\pages\\viewblog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\src\\pages\\viewblog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|solutionrelative:blogapp.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|solutionrelative:blogapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|solutionrelative:blogapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.server\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|solutionrelative:blogapp.server\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.server\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|solutionrelative:blogapp.server\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.server\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|solutionrelative:blogapp.server\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.server\\models\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|solutionrelative:blogapp.server\\models\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC94D52-0963-4691-8BFA-EECD730ECBB2}|BlogApp.Server\\BlogApp.Server.csproj|solutionrelative:blogapp.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|c:\\users\\gunay\\source\\repos\\blogapp\\blogapp.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A17B3712-BF8A-6543-C00E-EBD8B5481586}|blogapp.client\\blogapp.client.esproj|solutionrelative:blogapp.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "blogapp.client\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\CHANGELOG.md",
+              "RelativeToolTip": "blogapp.client\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-12T21:47:29.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\index.html",
+              "RelativeDocumentMoniker": "blogapp.client\\index.html",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\index.html",
+              "RelativeToolTip": "blogapp.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-12T21:47:23.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\eslint.config.js",
+              "RelativeDocumentMoniker": "blogapp.client\\eslint.config.js",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\eslint.config.js",
+              "RelativeToolTip": "blogapp.client\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-12T21:47:15.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\index.css",
+              "RelativeDocumentMoniker": "blogapp.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\index.css",
+              "RelativeToolTip": "blogapp.client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-12T21:47:12.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "blogapp.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\main.jsx",
+              "RelativeToolTip": "blogapp.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-12T21:47:06.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vite.svg",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\public\\vite.svg",
+              "RelativeDocumentMoniker": "blogapp.client\\public\\vite.svg",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\public\\vite.svg",
+              "RelativeToolTip": "blogapp.client\\public\\vite.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGQSURBVDhPpZMxa2JBFIW/PM0KWggyjQi\u002BxkaCgnYWFm4payAs2AqWr/M3\u002BBNEeD9B7FbCYrGQKthbZBFbq6eFIOJMsjuzxb7nDs8EQvbALe65Z87cudyB/4Ex5spKHaAN3ADXgF0DMMAL8AR8B37bRQe4D0XviTmQsA2\u002BvCIypVLJZLPZCz6Mu\u002BhmwrbPEELQ7/fpdDoIIahWq6TTaVtCdCZqowV8Buh2uwwGA4rFIlprACqVCo1GAyEEq9UqMngEHpJhch6YUopMJkO73SaZ/Fs2xnA8HvF9n9lsFknBesIZ\u002B/0e3/fxPI/FYoGUku12y3q9ZjqdxuWXBo7jIKVks9kwHo8JggClFKPRiMPhEJdfGqRSKfL5POVyGdd10Vqz2\u002B04nU7nmdiIDIxNNptNXNelUCigtUZKied51Ot1WwaWwUtEzOdzhsMhQRCQy\u002BVQSrFcLun1ekwmk38n4dlOOq8siqnVaqbVal3wYXy1DRLhesZFb8UPIEnswySA23DDPlm8jWfgJ/AN\u002BBUvfgh/AMg7ptLhRtONAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-12T21:46:54.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Navbar.jsx",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\components\\Navbar.jsx",
+              "RelativeDocumentMoniker": "blogapp.client\\src\\components\\Navbar.jsx",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\components\\Navbar.jsx",
+              "RelativeToolTip": "blogapp.client\\src\\components\\Navbar.jsx",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-12T19:16:21.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyBlogs.jsx",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\MyBlogs.jsx",
+              "RelativeDocumentMoniker": "blogapp.client\\src\\pages\\MyBlogs.jsx",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\MyBlogs.jsx",
+              "RelativeToolTip": "blogapp.client\\src\\pages\\MyBlogs.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-12T19:15:34.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\Login.jsx",
+              "RelativeDocumentMoniker": "blogapp.client\\src\\pages\\Login.jsx",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\Login.jsx",
+              "RelativeToolTip": "blogapp.client\\src\\pages\\Login.jsx",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-12T17:45:46.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BlogApp.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BlogApp.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:31:41.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Data\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "BlogApp.Server\\Data\\BlogDbContext.cs",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Data\\BlogDbContext.cs",
+              "RelativeToolTip": "BlogApp.Server\\Data\\BlogDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:30:53.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddBlog.jsx",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\AddBlog.jsx",
+              "RelativeDocumentMoniker": "blogapp.client\\src\\pages\\AddBlog.jsx",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\AddBlog.jsx",
+              "RelativeToolTip": "blogapp.client\\src\\pages\\AddBlog.jsx",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAE4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-11T22:45:35.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "BlogApp.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Program.cs",
+              "RelativeToolTip": "BlogApp.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:46:02.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\Register.jsx",
+              "RelativeDocumentMoniker": "blogapp.client\\src\\pages\\Register.jsx",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\Register.jsx",
+              "RelativeToolTip": "blogapp.client\\src\\pages\\Register.jsx",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAswHcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-12T12:33:41.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogApp.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\appsettings.json",
+              "RelativeToolTip": "BlogApp.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T17:22:55.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewBlog.jsx",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\ViewBlog.jsx",
+              "RelativeDocumentMoniker": "blogapp.client\\src\\pages\\ViewBlog.jsx",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\ViewBlog.jsx",
+              "RelativeToolTip": "blogapp.client\\src\\pages\\ViewBlog.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-11T23:18:08.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\Home.jsx",
+              "RelativeDocumentMoniker": "blogapp.client\\src\\pages\\Home.jsx",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\Home.jsx",
+              "RelativeToolTip": "blogapp.client\\src\\pages\\Home.jsx",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-11T23:00:34.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditBlog.jsx",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\EditBlog.jsx",
+              "RelativeDocumentMoniker": "blogapp.client\\src\\pages\\EditBlog.jsx",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\pages\\EditBlog.jsx",
+              "RelativeToolTip": "blogapp.client\\src\\pages\\EditBlog.jsx",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-12T19:38:11.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogPostsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Controllers\\BlogPostsController.cs",
+              "RelativeDocumentMoniker": "BlogApp.Server\\Controllers\\BlogPostsController.cs",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Controllers\\BlogPostsController.cs",
+              "RelativeToolTip": "BlogApp.Server\\Controllers\\BlogPostsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:35:30.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "BlogApp.Server\\Models\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Models\\BlogPost.cs",
+              "RelativeToolTip": "BlogApp.Server\\Models\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:43:07.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Models\\DTO.cs",
+              "RelativeDocumentMoniker": "BlogApp.Server\\Models\\DTO.cs",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Models\\DTO.cs",
+              "RelativeToolTip": "BlogApp.Server\\Models\\DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:43:52.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "blogapp.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\src\\App.jsx",
+              "RelativeToolTip": "blogapp.client\\src\\App.jsx",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-11T23:43:10.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BlogApp.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\BlogApp.Server\\Models\\User.cs",
+              "RelativeToolTip": "BlogApp.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:30:03.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "blogapp.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\.vscode\\launch.json",
+              "RelativeToolTip": "blogapp.client\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T12:38:13.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\vite.config.js",
+              "RelativeDocumentMoniker": "blogapp.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\Gunay\\source\\repos\\BlogApp\\blogapp.client\\vite.config.js",
+              "RelativeToolTip": "blogapp.client\\vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-11T22:44:39.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

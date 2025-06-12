@@ -1,0 +1,1 @@
+C:\Users\Gunay\source\repos\BlogApp\blogapp.client\obj\Debug\blogapp.client.esproj.CoreCompileInputs.cache
